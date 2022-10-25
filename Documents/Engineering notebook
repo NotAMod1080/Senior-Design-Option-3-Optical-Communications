@@ -1,5 +1,15 @@
 Cameron Martinez's section:
-
+Sept 16. Met in the Micaplex to get an overview of project from customer. 
+Sept 20. Met in class, looked over datasheets, and past documentation
+Sept 22. Met in the Micaplex, familiarized myself with equipment and started troubleshooting
+Sept 27. Met in class, started the SRS document
+Sept 29. Met with group to discuss SRS and SDS documents
+October 6. Met with PHD student on the project to discuss roles. We talked about purchasing new optics and laser diode to increase power at the receiver. The plan is to install a 1 kOhm resistor on laser driver to increase the transmitted power. 
+October 11. Researched plans for amplification at receiver end. I need to know more about the signal coming from the receiver in order to design an amplifier. 
+October 12. Virtually met with my team to discuss Sprint 1 presentation and create power point. 
+October 13. Presented to class about the project and Sprint 1.
+October 21. Added 1 kOhm resistor to laser driver. This increased power output substantially. We are now able to get up to 8-10 mW. 
+October 24. Spoke to PhD student working on project to figure out receiver issues. Plan to meet this week. 
 
 Dylan Koch's section:
 
@@ -8,8 +18,12 @@ Sean Huber's section:
 
 Sep 16 - Showed up to the lab, got an introduction to the materials and working are.
 
-Sep 22 - We realize we really have no idea what we are doing. Attempted to focus the diode but its clear research is needed but was able to measure 50% diode power at a few inches away.
-         Also we have no Micro SD cards and the locaiton of which is unknown.
+Sep 22 - We realize we really have no idea what we are doing. Attempted to focus the diode but it’s clear research is needed but was able to measure 50% diode power at a few inches away.
+Sep 27 – Started SDS Document outline
+Oct 6 – Discussed plans for purchasing optics and new laser driver and/or laser diode to increase power to overcome the losses due to the given optics. The current plan is to install a 1K ohm resistor in the laser driver to increase the laser power to increase the delivered current from .5ma to 2.5ma.
+Oct 12 – Virtual meeting on discord to discuss and complete the SDS V1 document
+Oct 13 – Presented to the class sprint 1. Which contained what we had/have not accomplished
+Oct 21 – Install and test of the 1K ohm resistor in the driver. With the resistor installed the diode can reach power levels of 10mw. Next is to research and order optics to focus the now intensified beam.
 
 
 Dominic Steiner's section:
@@ -30,4 +44,5 @@ Sept 20. Met in class, looked over datasheets, and optical devices such as drive
 Sept 22. Met in the micaplex, tested different spacings of a lens to focus our laser.
 
 Sept 27. Met in class, started the SRS document, and I am solving equation while comparing what our equipment can safely handle.
+
 
