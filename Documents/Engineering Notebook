@@ -30,6 +30,15 @@ Oct 6 – Discussed plans for purchasing optics and new laser driver and/or lase
 Oct 12 – Virtual meeting on discord to discuss and complete the SDS V1 document
 Oct 13 – Presented to the class sprint 1. Which contained what we had/have not accomplished
 Oct 21 – Install and test of the 1K ohm resistor in the driver. With the resistor installed the diode can reach power levels of 10mw. Next is to research and order optics to focus the now intensified beam.
+Oct 25 – Met in LB 274, updating documents and discussing the next step and delegating tasks. 
+Oct 27 – Met at the micaplex to diagnose the reciever. 
+Nov 1 - Met at LB274, determined team assignments for test plan.
+Nov 3 - Micaplex to attempt any other ways to get the reciever to work and discuss new reciever
+Nov 12 - Started working on setting up the Raspis with a SSH and FTP sevrer for remote access and execution
+Nov 16 - Started static tests for serial communication with the Raspis.
+Nov 22 - Developed test code to experiment with the raspi Serial communication standards
+Nov 29 - Micaplex - installed and verified the new reciever works, used the raspi to send some serial data to see it on the osilliscope. Ended up killing the laser driver due to unproteced wire connections.
+Dec 1 - Micaplex - Tried the secondary laser driver, was told working, discovered it was also burntout as from the previous year. Need to order new diodes and laser drivers.
 
 
 Dominic Steiner's section:
