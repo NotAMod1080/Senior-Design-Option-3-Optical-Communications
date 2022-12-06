@@ -19,6 +19,15 @@ Sept 27. Began work on our group's current documentation for first sprint.
 Sept 29. Continued work on documentation.
 Oct 6. Met with PHD students regarding the project. Established tasks, roles, and overview for the next two sprints. 
 Oct 13. Presented first sprint of project to class.
+Oct 21. Soldered in the 1kOhm resistor to the laser driver. Allows for increase output power to drive the diode. 
+Oct 25. Worked on second sprint documentation.  
+Oct 27. Worked to diagnose the current reciever. Begun research on future recievers. 
+Nov 1. Worked on Test Plan documentation
+Nov 3. Further research and final decision on next reciever. 
+Nov 16. Worked on Sprint 2 Demos. 
+Nov 29. Installed new photodiode reciever and Raspberry Pi transmitter. Began testing modulated signals. Ended up accidentally shorting our driver and diodes.
+Dec 1. Attempted to install secondary laser driver, unfortunately it was the orignial driver from the previous group, already broken. 
+Dec 6. Attempted to test laser diodes with backup laser drvier. Contacted customer to purchase new equipment. 
 
 Sean Huber's section:
 
