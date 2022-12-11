@@ -63,8 +63,10 @@ Nov 12 - Started working on setting up the Raspis with a SSH and FTP sevrer for 
 Nov 16 - Started static tests for serial communication with the Raspis.
 Nov 22 - Developed test code to experiment with the raspi Serial communication standards
 Nov 29 - Micaplex - installed and verified the new reciever works, used the raspi to send some serial data to see it on the osilliscope. Ended up killing the laser driver due to unproteced wire connections.
-Dec 1 - Micaplex - Tried the secondary laser driver, was told working, discovered it was also burntout as from the previous year. Need to order new diodes and laser drivers.
-
+Dec 1 - Micaplex - Tried the secondary laser driver, was told working, discovered it was also burntout as from the previous year. Need to order new diodes and laser drivers. 
+Dec 6 - Micaplex - Met with customer, Dr. Rojas, to put in new part order and the future of the project.
+Dec 7 - Worked on presentation
+Dec 8 - Class Room - Final presentation.
 
 Dominic Steiner's section:
 
