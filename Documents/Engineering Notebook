@@ -85,6 +85,11 @@ Jan 19 - Test our components and discovered that the diode cable was damaged
 Jan 24 - Met in the classroom to discuss new and old buisness
 Jan 26 - Discord meeting to discussand delegate the tasks for the power/signal PCB
 Jan 31 - Met in the classroom to discuss new and old buisness
+Feb 2 - Simulated power systems, Raspi serial output -> inverter -> voltage divider -> voltage follower op amp -> laser driver. 
+Feb 7 - Sprint 4 presentation. 
+Feb 9 - Implemented new ESD cable for the diode, driver/laser combo works, progress can continue.
+Feb 14 - Met with group in class room, finalized power and signal circuits, parts list soon?
+Feb 16 - Virtual meeting with the group to split into smaller teams to work on subtasks in parallel, since the main structure of the project (laser diode/driver and reciever) are operational.
 
 Dominic Steiner's section:
 
