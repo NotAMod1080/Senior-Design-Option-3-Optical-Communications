@@ -43,6 +43,7 @@ Feb. 16 - Delegated teams of two to focus on three different paths for system im
 
 Dylan Koch's section:
 
+      FALL 2022
 Sept 16. Met with the customer for overview and introduction to project and requirements.
 Sept 20. Reviewed the past team's documents and provided datasheets for current equipment.
 Sept 22. Began intial setup and familiarization of current project equipment. 
@@ -59,6 +60,17 @@ Nov 16. Worked on Sprint 2 Demos.
 Nov 29. Installed new photodiode reciever and Raspberry Pi transmitter. Began testing modulated signals. Ended up accidentally shorting our driver and diodes.
 Dec 1. Attempted to install secondary laser driver, unfortunately it was the orignial driver from the previous group, already broken. 
 Dec 6. Attempted to test laser diodes with backup laser drvier. Contacted customer to purchase new equipment. 
+
+      SPRING 2023
+Jan 17. First spring meeting regarding Scrum master and tasks for the first sprint.
+Jan 19. Discovered next hardware issue was the feed cable for diode. Ordered new one.
+Jan 24. Started designing power circuits.
+Jan 26. Discord meeting regarding delegation of tasks moving forward.
+Jan 31. Continued work on power circuits.
+Feb 2. Simulated power circuits.
+Feb 9. Installed new feed cable and began transmitting again.
+Feb 14. Discussed plans moving forward. 
+Feb 16. Delegated different tasks for three teams of two due at the end of the next sprint for the customer. 
 
 Sean Huber's section:
 
