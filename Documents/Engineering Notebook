@@ -109,7 +109,13 @@ Feb 9 - Began basic performance testing for the laser driver/trouble shooting fo
 Feb 10 - Met at micaplex installed 1K resistor to check power level of the diode.
 Feb 14 - Met with group in class room, finalized power and signal circuits, parts list soon?
 Feb 16 - Virtual meeting with the group to split into smaller teams to work on subtasks in parallel, since the main structure of the project (laser diode/driver and reciever) are operational.
-
+Feb 21 - Class room meeting canceled. Discord meeting instead.
+Feb 23 - Micaplex to realize that there are limitations to our current componets.
+Feb 26 - Contacted rojas with concerns on componet limitations.
+Feb 28 - Class room meeting, met with rojas to discuss new driver recieved raspi 4.
+Mar 1 - Raspi communication performance testing, capable of 256000 baud
+Mar 6 - Finalized presentation through discord.
+Mar 7 - Met in class discussed issues and fianlizing documentation.
 Dominic Steiner's section:
 
 Sep-16 - Met with Dr. Rojas and was given orientation of lab and project state 
@@ -133,7 +139,6 @@ Dec 8 – Presented Sprint 3 progress
 Jan 17 – Discussed plan for testing new additions to the setup 
 Jan 19 – Tested new setup and researched replacement parts for diode housing 
 Jan 24 – Met in class to research power source and prepare documents 
-
 
 Jarrod Siglin's section:
 
