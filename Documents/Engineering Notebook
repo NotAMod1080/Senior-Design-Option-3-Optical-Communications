@@ -192,8 +192,8 @@ December 6. Tested our laser diode with a constant power laser driver
 December 8. Presented our final sprint for this semester
 December 21. Set up new components but did not have a chance to test
 January 17. Met together and discussed what our sprint goals are
-January 19. Test our components and discovered that the diode cable was damaged.
-January 24. Met to discuss power system design and sprint goals. 
+January 19. Test our components and discovered that the diode cable was damaged
+January 24. Met to discuss power system design and sprint goals
 January 26. Discord meeting to discussand delegate the tasks for the power/signal PCB
 January 31. Confirmed designs and specs of power system 
 February 2. Installed cable and recorded results 
@@ -202,3 +202,6 @@ February 9. Swapped out resistor to 1k ohms and tested circuit
 February 14. Discussed sprint 5 goals and backlog
 February 16. Divided into teams to record data and work on separate systems 
 February 21. Met with group to work on documents and Github
+February 23. Troubleshooting to see what was limiting frequency of driver and most plausible cause is a faulty analog modulation components on driver
+February 28. Met with group and discussed new potential drivers
+March 2. Went to Micaplex and found some faults with probes and did frequency testing 
