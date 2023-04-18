@@ -135,6 +135,17 @@ Feb 28 - Class room meeting, met with rojas to discuss new driver recieved raspi
 Mar 1 - Raspi communication performance testing, capable of 256000 baud
 Mar 6 - Finalized presentation through discord.
 Mar 7 - Met in class discussed issues and fianlizing documentation.
+Mar 9. Presented demo
+Mar 21. Gathered a parts list of we had and needed and determined that we still need an op amp
+Mar 23. Received raspi camera and was ready to test raspis with circuit but their code was not working properly
+Mar 28. Worked on driver in micaplex and received the new driver
+Mar 30. Set up signal circuit
+Apr 4. Met with Pang and discussed progress of the project
+Apr 6. Worked with new driver with single supply setup
+Apr 11. Pushed the diode to 3.4mW with the new driver and tested it at 10kHz 
+Apr 13. Tested modulation inputs and outputs with 10kHz, 116kHz, and 230kHz
+Apr 17. Worked on inverting op amp circuit, results are uncontrollable 
+Apr 18. Continued testing op amp circuit
 Dominic Steiner's section:
 
 Sep-16 - Met with Dr. Rojas and was given orientation of lab and project state 
@@ -261,5 +272,9 @@ March 23. Received raspi camera and was ready to test raspis with circuit but th
 March 28. Worked on driver in micaplex and received the new driver
 March 30. Set up signal circuit
 April 4. Met with Pang and discussed progress of the project
-
+April 6. Worked with new driver with single supply setup
+April 11. Pushed the diode to 3.4mW with the new driver and tested it at 10kHz 
+April 13. Tested modulation inputs and outputs with 10kHz, 116kHz, and 230kHz
+April 17. Worked on inverting op amp circuit, results are uncontrollable 
+April 18. Continued testing op amp circuit
 
